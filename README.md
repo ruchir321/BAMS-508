@@ -21,6 +21,8 @@ The Kidney Paired Donation (KPD) program, managed by Canadian Blood Services (CB
 
 The simulation generates a comprehensive analysis of matching outcomes under varying conditions, summarized in `output/simulation_results.png`.
 
+![Simulation Results](output/simulation_results.png)
+
 The key findings from the 605 simulation experiments are:
 - The total number of transplants is strongly correlated with the size of the participant pool (both donors and patients).
 - The ratio of donors to patients significantly impacts the efficiency of the matching process.
